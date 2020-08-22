@@ -11,6 +11,8 @@
     <a href="mailto:immbadri3@gmail.com" >
         <img alt = "mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/Gmail.svg">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    ![](https://komarev.com/ghpvc/?username=MBadriNarayanan&color=blue&label=Profile+Views)
 </p>
 
 ### A little bit more about me:
@@ -30,7 +32,6 @@
 ### Some stats:
 
 <p>
-![Views](https://komarev.com/ghpvc/?username=MBadriNarayanan&color=blue&label=profile+views)
 <img src="https://github-readme-stats.vercel.app/api?username=MBadriNarayanan&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Badri's GitHub Stats" />
 <br>
 <br>
