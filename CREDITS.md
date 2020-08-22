@@ -6,4 +6,8 @@ Generated using the [repository](https://github.com/anuraghazra/github-readme-st
 
 ### Icons:
 
-LinkedIn, GMail, Portfolio Website icons:** Icons from [www.flaticon.com](https://www.flaticon.com)
+LinkedIn, GMail, Portfolio Website icons: Icons from [www.flaticon.com](https://www.flaticon.com)
+
+## README Template
+
+[Mahesh Bharadwaj K](https://github.com/MaheshBharadwaj)
