@@ -12,7 +12,7 @@
         <img alt = "mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/Gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt = "Badri's Profile View" width="30px" src=https://komarev.com/ghpvc/?username=MBadriNarayanan&color=blue&label=Profile+Views)
+    <img alt = "Badri's Profile View"  src=https://komarev.com/ghpvc/?username=MBadriNarayanan&color=blue&label=Profile+Views>
 </p>
 
 ### A little bit more about me:
