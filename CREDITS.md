@@ -10,7 +10,7 @@ Generated using the [repository](https://github.com/antonkomarev/github-profile-
 
 ### Icons
 
-LinkedIn, GMail, Portfolio Website icons: Icons from [www.flaticon.com](https://www.flaticon.com)
+LinkedIn, GMail, Portfolio Website icons : Icons from [www.flaticon.com](https://www.flaticon.com)
 
 ### README Template
 
