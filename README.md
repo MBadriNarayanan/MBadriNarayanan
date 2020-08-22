@@ -1,4 +1,4 @@
-h2 align="center"> Hi there, I am M Badri Narayanan 👋 :smiley: </h2>
+<h2 align="center"> Hi there, I am M Badri Narayanan 👋 :smiley: </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/mbadrinarayanan" >
         <img alt = "Badri's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/LinkedIn.svg">
@@ -29,7 +29,7 @@ h2 align="center"> Hi there, I am M Badri Narayanan 👋 :smiley: </h2>
 ### Some stats:
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=MBadriNarayanan&show_icons=true&hide=stars&include_all_commits=true&theme=buefy" alt="Badri's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MBadriNarayanan&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Badri's GitHub Stats" />
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshBharadwaj&layout=compact&theme=highcontrast" />
