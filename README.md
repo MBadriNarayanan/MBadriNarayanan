@@ -4,7 +4,7 @@
         <img alt = "Badri's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/LinkedIn.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mbadrinarayanan" >
+    <a href="https://mbadrinarayanan.github.io" >
         <img alt = "Badri's Portfolio Website" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/internet.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
