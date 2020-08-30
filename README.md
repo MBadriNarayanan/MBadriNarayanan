@@ -25,7 +25,7 @@
 
 
 
-> :mortar_board: I’m currently working on: [Speech To Text Transcription](https://github.com/MBadriNarayanan/SpeechToTextTranscription)<br>
+> :mortar_board: I’m currently working on: [Clickbait Classification](https://github.com/MBadriNarayanan/ClickbaitClassification)<br>
 > :books: I’m currently learning: **Natural Language Prcoessing** and **Computer Vision**<br>
 > :computer: I’m looking to collaborate on: **Any ML / Deep Learning / NLP / CV / Python / C++ based projects**<br>
 
