@@ -34,4 +34,6 @@
 <p>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBadriNarayanan&layout=compact&theme=highcontrast" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=MBadriNarayanan&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Badri's GitHub Stats" />
 </p>
