@@ -17,17 +17,17 @@
 
 ### A little bit more about me:
 :one: I'm currently pursuing my B.Tech in **Information Technology** at [SSN College of Engineering](https://www.ssn.edu.in) , Chennai. <br>
-:two: I am interested in the fields of Machine Learning , Deep Learning, Natural Language Processing and Computer Vision. I would like to work in the aforementioned fields and develop real world solutions.<br>
+:two: I am interested in the fields of Machine Learning , Deep Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. I would like to work in the aforementioned fields and develop real world solutions.<br>
 :three: I am interested in making contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
-:four: I'm a part-time Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/) where I'm researching in the fields of Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.<br>
+:four: I'm a part-time Teaching and Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/) where I'm researching in the fields of Machine Learning, Natural Language Processing and Computer Vision.<br>
 :five: Check out my [portfolio website](https://mbadrinarayanan.github.io) for more details and up-to-date CV
 <hr>
 
 
 
 > :mortar_board: I’m currently working on: [Clickbait Classification](https://github.com/MBadriNarayanan/ClickbaitClassification)<br>
-> :books: I’m currently learning: **Natural Language Prcoessing** and **Computer Vision**<br>
-> :computer: I’m looking to collaborate on: **Any ML / Deep Learning / NLP / CV / Python / C++ based projects**<br>
+> :books: I’m currently learning: **Natural Language Prcoessing**, **Computer Vision** and **Speech Signal Processing**<br>
+> :computer: I’m looking to collaborate on: **Any ML / Deep Learning / NLP / CV / Speech Signal Processing / Python / C++ based projects**<br>
 
 ### Some stats:
 
