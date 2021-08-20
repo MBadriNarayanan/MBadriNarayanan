@@ -26,7 +26,7 @@
 
 
 > :mortar_board: I’m currently working on: [Clickbait Classification](https://github.com/MBadriNarayanan/ClickbaitClassification)<br>
-> :books: I’m currently learning: **Natural Language Prcoessing**, **Computer Vision** and **Speech Signal Processing**<br>
+> :books: I’m currently learning: **Natural Language Processing**, **Computer Vision** and **Speech Signal Processing**<br>
 > :computer: I’m looking to collaborate on: **Any ML / Deep Learning / NLP / CV / Speech Signal Processing / Python / C++ based projects**<br>
 
 ### Some stats:
