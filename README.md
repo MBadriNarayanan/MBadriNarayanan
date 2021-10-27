@@ -17,11 +17,12 @@
 
 ### A little bit more about me:
 :one: I'm currently pursuing my B.Tech in **Information Technology** at [SSN College of Engineering](https://www.ssn.edu.in) , Chennai. <br>
-:two: I have published two papers [Sign Language Translation using Multi Context Transformer](https://github.com/MBadriNarayanan/MultiContextTransformer) & [End-to-End Speech Recognition of Tamil Language](https://github.com/MBadriNarayanan/TamilASR)<br>
-:three: I am interested in the fields of Machine Learning , Deep Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. I would like to work in the aforementioned fields and develop real world solutions.<br>
-:four: I am interested in making contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
-:five: I'm a part-time Teaching and Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/) where I'm researching in the fields of Machine Learning, Natural Language Processing and Computer Vision.<br>
-:six: Check out my [portfolio website](https://mbadrinarayanan.github.io) for more details and up-to-date CV
+:two: My [Sign Language Translation using Multi Context Transformer](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) won the **3rd best paper award** at the 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021.<br>
+:three: I have also published another paper titled [End-to-End Speech Recognition of Tamil Language](https://github.com/MBadriNarayanan/TamilASR).<br>
+:four: I am interested in the fields of Machine Learning , Deep Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. I would like to work in the aforementioned fields and develop real world solutions.<br>
+:five: I am interested in making contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
+:six: I'm a part-time Teaching and Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/) where I'm researching in the fields of Machine Learning, Natural Language Processing and Computer Vision.<br>
+:seven: Check out my [portfolio website](https://mbadrinarayanan.github.io) for more details and up-to-date CV
 <hr>
 
 
