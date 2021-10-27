@@ -17,7 +17,7 @@
 
 ### A little bit more about me:
 :one: I'm currently pursuing my B.Tech in **Information Technology** at [SSN College of Engineering](https://www.ssn.edu.in) , Chennai. <br>
-:two: My [Sign Language Translation using Multi Context Transformer](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) won the **3rd best paper award** at the 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021.<br>
+:two: My [Sign Language Translation using Multi Context Transformer](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) paper won the **3rd best paper award** at the 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021.<br>
 :three: I have also published another paper titled [End-to-End Speech Recognition of Tamil Language](https://github.com/MBadriNarayanan/TamilASR).<br>
 :four: I am interested in the fields of Machine Learning , Deep Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. I would like to work in the aforementioned fields and develop real world solutions.<br>
 :five: I am interested in making contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
