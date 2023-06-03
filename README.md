@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I am M Badri Narayanan 👋 :smiley: </h2>
+<h2 align="center"> Hi there, I am Badri Narayanan Murali Krishnan👋 :smiley: </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/mbadrinarayanan" >
         <img alt = "Badri's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/LinkedIn.svg">
