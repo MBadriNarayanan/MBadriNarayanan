@@ -5,10 +5,10 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:immbadri3@gmail.com" >
-        <img alt = "badri's mail" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/Gmail.svg">
+        <img alt = "Badri's mail" width="30px" src="https://raw.githubusercontent.com/MBadriNarayanan/MBadriNarayanan/master/img/Gmail.svg">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt = "Badri's Profile View"  src=https://komarev.com/ghpvc/?username=MBadriNarayanan&color=blue&label=Profile+Views>
+<!--     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt = "Badri's Profile View"  src=https://komarev.com/ghpvc/?username=MBadriNarayanan&color=blue&label=Profile+Views> -->
 </p>
 
 ### A little bit more about me:
