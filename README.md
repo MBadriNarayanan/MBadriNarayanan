@@ -12,7 +12,7 @@
 </p>
 
 ### A little bit more about me:
-:one: I am currently pursuing my Masters in Computer Sciences (PMP) at the University of Wisconsin - Madison.<br>
+:one: I am currently pursuing my Masters in Computer Sciences at the University of Wisconsin - Madison.<br>
 :two: Prior to this, I worked as an Associate Engineer - AI/ML at Qualcomm, Hyderabad.<br>
 :three: I completed my B.Tech in **Information Technology** from [Sri Sivasubramnaiya Nadar (SSN) College of Engineering](https://www.ssn.edu.in), Chennai. <br>
 :four: My [Sign Language Translation using Multi Context Transformer](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) paper won the **3rd best paper award** at the 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021.<br>
