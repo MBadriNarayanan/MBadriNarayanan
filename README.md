@@ -14,7 +14,7 @@
 ### A little bit more about me:
 :one: I am currently pursuing my Masters in **Computer Sciences** at the [University of Wisconsin - Madison](https://www.cs.wisc.edu/). <br>
 :two: My most recent work experience was at Nokia Bell Labs as an Autonomous System Research Intern during Summer 2024 where I worked on using LLMs in the context of automation and collaborative agents. <br>
-:three: At UW-Madison, I worked with Dr. Suman Banerjee to benchmark and deploy LLMs on resource-constrained devices. Our work, [In the Palm of Your Hand: Benchmarking Large Language Models for Mobile Deployment](https://neurips.cc/) was presented in Empirical Methods in Natural Language Processing (EMNLP), 2024. <br>
+:three: At UW-Madison, I worked with Dr. Suman Banerjee to benchmark and deploy LLMs on resource-constrained devices. Our work, [In the Palm of Your Hand: Benchmarking Large Language Models for Mobile Deployment](https://2024.emnlp.org/) was presented in Empirical Methods in Natural Language Processing (EMNLP), 2024. <br>
 :four: Before this, I worked as an Associate Engineer - AI/ML at Qualcomm, Hyderabad as part of the AISW team. <br>
 :five: I completed my bachelor's **Information Technology** at [Sri Sivasubramnaiya Nadar (SSN) College of Engineering](https://www.ssn.edu.in), Chennai. <br>
 :six: My [Sign Language Translation using Multi Context Transformer](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) paper won the **3rd best paper award** at the 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021.<br>
