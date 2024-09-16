@@ -21,7 +21,7 @@ improving the in-house testing pipeline. <br>
 :six: My [Sign Language Translation using Multi Context Transformer](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) paper won the **3rd best paper award** at the 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021.<br>
 :seven: I have published two other papers titled [End-to-End Speech Recognition of Tamil Language](http://www.techscience.com/iasc/v32n2/45592) and [Fake News Detection using a Deep Learning Transformer Based Encoder-Decoder architecture](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs223980) which have been published in a Science Citation Index Expanded Journal.<br>
 :eight: My primary interests lie in the fields of Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), Computer Vision (CV), and Automatic Speech Recognition (ASR). I want to work in the aforementioned fields and develop real-world solutions.<br>
-:nine: Check out my [portfolio website](https://mbadrinarayanan.com) for more details and up-to-date CV
+:nine: Check out my [portfolio website](https://mbadrinarayanan.com) for more details and up-to-date Resume
 <hr>
 
 > :computer: I’m looking to collaborate on **Any ML / Deep Learning / NLP / CV / Speech Signal Processing / Python / C++ based projects**<br>
