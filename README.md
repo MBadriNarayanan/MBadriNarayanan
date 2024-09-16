@@ -13,8 +13,8 @@
 
 ### A little bit more about me:
 :one: I am currently pursuing my Masters in **Computer Sciences** at the [University of Wisconsin - Madison](https://www.cs.wisc.edu/). <br>
-:two: My most recent work experience was at Nokia Bell Labs as an Autonomous System Research Intern during Summer 2024 where I worked with LLMs in the context of automation and collaborative agents. <br>
-:three: At UW-Madison, I worked with Dr. Suman Banerjee to benchmark and deploy LLMs on resource-constrained devices.<br>
+:two: At UW-Madison, I worked with Dr. Ran Zhang to implement <b>Retrieval-Augmented Generation (RAG)</b> and <b>fine-tune LLMs</b> on a custom dataset of radiology reports for enhanced diagnostic insight.<be>
+:three: My most recent work experience was at Nokia Bell Labs as an Autonomous System Research Intern during Summer 2024 where I worked with LLMs in the context of automation and collaborative agents. <br>
 :four: Before this, I worked as an Associate Engineer - AI/ML at Qualcomm, Hyderabad as part of the AISW team, where I worked on running inference for SOTA ML models and 
 improving the in-house testing pipeline. <br>
 :five: I completed my bachelor's **Information Technology** at [Sri Sivasubramnaiya Nadar (SSN) College of Engineering](https://www.ssn.edu.in), Chennai. <br>
