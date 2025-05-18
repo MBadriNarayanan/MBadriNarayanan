@@ -12,8 +12,8 @@
 </p>
 
 ### A little bit more about me:
-:one: I am currently pursuing my Masters in **Computer Sciences** at the [University of Wisconsin - Madison](https://www.cs.wisc.edu/). <br>
-:two: At UW-Madison, I worked with Dr. Ran Zhang to implement <b>Retrieval-Augmented Generation (RAG)</b> and <b>fine-tune LLMs</b> on a custom dataset of radiology reports for enhanced diagnostic insight.<br>
+:one: I have a Master's degree in **Computer Sciences** from the [University of Wisconsin - Madison](https://www.cs.wisc.edu/). <br>
+:two: At UW-Madison, I worked with Dr. Ran Zhang to implement <b>Retrieval-Augmented Generation (RAG)</b> pipeline on radiology reports for enhanced diagnostic insight.<br>
 :three: My most recent work experience was at Nokia Bell Labs as an Autonomous System Research Intern during Summer 2024 where I worked with LLMs in the context of automation and collaborative agents. <br>
 :four: Before this, I worked as an Associate Engineer - AI/ML at Qualcomm, Hyderabad as part of the AISW team, where I worked on running inference for SOTA ML models and 
 improving the in-house testing pipeline. <br>
@@ -24,7 +24,7 @@ improving the in-house testing pipeline. <br>
 :nine: Check out my [portfolio website](https://mbadrinarayanan.com) for more details and up-to-date Resume
 <hr>
 
-> :computer: I’m looking to collaborate on **Any ML / Deep Learning / NLP / CV / Speech Signal Processing / Python / C++ based projects**<br>
+> :computer: I’m looking to collaborate on **Any ML / GenAI / NLP / LLM / Python based projects**<br>
 
 ### Some stats:
 
