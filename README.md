@@ -13,7 +13,7 @@
 
 ### A little bit more about me:
 :one: I have a Master's degree in **Computer Sciences** from the [University of Wisconsin - Madison](https://www.cs.wisc.edu/). <br>
-:two: At UW-Madison, I worked with Dr. Ran Zhang to implement <b>Retrieval-Augmented Generation (RAG)</b> pipeline on radiology reports for enhanced diagnostic insight.<br>
+:two: At UW-Madison, I worked with Dr. Ran Zhang to implement an <b>Agentic Retrieval-Augmented Generation (RAG)</b> pipeline on radiology reports for enhanced diagnostic insight.<br>
 :three: My most recent work experience was at Nokia Bell Labs as an Autonomous System Research Intern during Summer 2024 where I worked with LLMs in the context of automation and collaborative agents. <br>
 :four: Before this, I worked as an Associate Engineer - AI/ML at Qualcomm, Hyderabad as part of the AISW team, where I worked on running inference for SOTA ML models and 
 improving the in-house testing pipeline. <br>
